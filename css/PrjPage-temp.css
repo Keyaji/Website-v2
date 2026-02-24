@@ -1,0 +1,169 @@
+body {
+    font-family: Poppins;
+    background-color: #EFF0E9;
+}
+
+h1.title {
+    color: #585E6E;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 90px;
+    font-size: 80px;
+}
+
+h2.bold {
+    font-weight: 700;
+}
+
+h3 {
+    color: #585E6E;
+    font-weight: 800;
+}
+
+h3.bold {
+    font-weight: 700;
+}
+
+/* text color styling */
+.txt-white {
+    color: #EFF0E9;
+}
+
+.txt-blue {
+    color: #79A0BF;
+}
+
+.txt-grey {
+    color: #585E6E;
+}
+
+h4 {
+    color: #EFF0E9;
+}
+
+/* card styling */
+h4.card-bold {
+    color: #EFF0E9;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+
+.card-body2 {
+    background-color: #79A0BF;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.box-shadow {
+    box-shadow: 0px 15px 20px rgb(162, 169, 177) inset;
+
+}
+
+li {
+    color: #585E6E;
+    font-weight: 400;
+    font-size: large;
+}
+
+p {
+    color: #585E6E;
+    font-weight: 400;
+    font-size: large;
+}
+
+p.card-txt {
+    color: #EFF0E9;
+
+}
+
+.list-unstyled {
+    color: #585E6E;
+}
+
+.btn.btn-custom {
+    background-color: #79A0BF;
+    border-width: 0;
+    color: #EFF0E9;
+}
+
+.btn.btn-custom:disabled {
+    background-color: #79A0BF;
+    border-width: 0;
+    color: #EFF0E9;
+    cursor: default;
+    opacity: 100%;
+}
+
+.border.custom-border-color {
+    border-color: #79A0BF !important;
+
+}
+
+.btn-outline-b {
+    border-color: #79A0BF;
+}
+
+.btn.btn-outline-b:disabled {
+    border-color: #79A0BF;
+    opacity: 100%;
+    cursor: default;
+}
+
+.sub-padding{
+    padding-top: 8%;
+}
+
+/* arrow bulletpoints*/
+/*
+ul.arrow{
+  position: relative;
+  list-style: none;
+}
+
+li::before {
+  content: '>';
+  position: absolute;
+  left: 0;
+}
+  */
+/*
+.arrow{
+    content: '>';
+  position: absolute;
+  left: 0;
+}
+*/
+/* This is the styling for all other section containers (2/10/26) */
+
+#col-left {
+    margin-right: 60px;
+    padding-right: 1rem;
+}
+
+.row-container {
+    display: flex;
+    /* Activates Flexbox layout */
+    justify-content: space-between;
+    /* Adds space between columns */
+    gap: 20px;
+    /* Optional: adds a gap between columns */
+}
+
+.column-left,
+.column-right {
+    flex: 1;
+    /* Makes both columns take up equal available space */
+    padding: 10px;
+    border: 0px solid #ccc;
+
+}
+
+/* Optional: Make columns stack vertically on smaller screens for responsiveness */
+@media (max-width: 600px) {
+    .row-container {
+        flex-direction: column;
+        /* Stacks columns vertically on screens less than 600px wide */
+    }
+}
