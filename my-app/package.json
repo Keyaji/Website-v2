@@ -6,6 +6,9 @@
 	"engines": {
 		"node": ">=20.19.0"
 	},
+	"overrides": {
+		"@sveltejs/vite-plugin-svelte": "^5.0.0"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
