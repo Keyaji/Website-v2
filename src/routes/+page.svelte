@@ -23,24 +23,42 @@
     </div>
   </div>
 </section>
-
+<!-- MARK: UX?UI Design Projects
+-->
 <section id="project-preview">
   <div class="container-middle" style="padding-bottom: 5%; padding-top: 5%;">
     <div>
       <h1 class="header" style=" color: #EFF0E9;">UX/UI</h1>
       <div
-        style="justify-content: center; display: flex; flex-wrap: nowrap; gap: 4%; padding-top: 2%;">
+        style="justify-content: center; display: flex; flex-wrap: nowrap; gap: 4%; padding-top: 2%;"
+      >
         <div class="card shadow">
           <!-- Costco -->
-          <img class="card-img-top" alt="Thumbnail [100%x225]"style="height: autox; width: 100%; display: block;" src="/images/Project Thumbnails/Thumb_Costco.png"/>
-          <div div class="card-body" style="padding: 30px;  background-color: #79A0BF;">
+          <img
+            class="card-img-top"
+            alt="Thumbnail [100%x225]"
+            style="height: autox; width: 100%; display: block;"
+            src="/images/Project Thumbnails/Thumb_Costco.png"
+          />
+          <div
+            div
+            class="card-body"
+            style="padding: 30px;  background-color: #79A0BF;"
+          >
             <div class="card-body">
               <h2 class="card-text fw-bold" style="line-height: 100%;">
-                Costco Mobile <br/> App Redesign
+                Costco Mobile App Redesign
               </h2>
-              <div class="d-flex justify-content-between align-items-center" style="padding-top: 7%;">
+              <div
+                class="d-flex justify-content-between align-items-center"
+                style="padding-top: 7%;"
+              >
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary rounded-1 border-2" style="font-weight: 500;">Student Project</button>
+                  <button
+                    type="button"
+                    class="btn btn-sm btn-outline-secondary rounded-1 border-2"
+                    style="font-weight: 500;">Student Project</button
+                  >
                 </div>
               </div>
               <a href="/costco-app-redesign" class="stretched-link"></a>
@@ -67,7 +85,7 @@
               </h2>
               <div
                 class="d-flex justify-content-between align-items-center"
-                style="padding-top: 16%;"
+                style="padding-top: 7%;"
               >
                 <div class="btn-group">
                   <button
@@ -86,37 +104,24 @@
   </div>
 </section>
 <!--
-<section>
+ MARK: Visual Design Projects
+
+
+<section id="project-preview">
   <div class="container-middle" style="padding-bottom: 5%; padding-top: 5%;">
     <div>
-      <h1 class="header" style=" color: #EFF0E9;">UX/UI</h1>
+      <h1 class="header" style=" color: #EFF0E9;">Visual Design</h1>
       <div
-        style="justify-content: center; display: flex; flex-wrap: nowrap; gap: 4%; padding-top: 2%;">
-        <div class="card shadow">
+        style="justify-content: center; display: flex; flex-wrap: nowrap; gap: 4%; padding-top: 2%;"
+      >
+         MARK: Row 1
          
-          <img class="card-img-top" alt="Thumbnail [100%x225]"style="height: autox; width: 100%; display: block;" src="/images/Project Thumbnails/Thumb_Costco.png"/>
-          <div div class="card-body" style="padding: 30px;  background-color: #79A0BF;">
-            <div class="card-body">
-              <h2 class="card-text fw-bold" style="line-height: 100%;">
-                Costco Mobile <br/> App Redesign
-              </h2>
-              <div class="d-flex justify-content-between align-items-center" style="padding-top: 7%;">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary rounded-1 border-2" style="font-weight: 500;">Student Project</button>
-                </div>
-              </div>
-              <a href="/costco-app-redesign" class="stretched-link"></a>
-            </div>
-          </div>
-        </div>
-
-        <div class="card shadow" style="display: flex;">
-          
+        <div class="card shadow">
           <img
             class="card-img-top"
             alt="Thumbnail [100%x225]"
-            style="height: auto; width: 100%; display: block;"
-            src="/images/Project Thumbnails/Thumb_Goblin.png"
+            style="height: autox; width: 100%; display: block;"
+            src="/images/Project Thumbnails/Thumb_Costco.png"
           />
           <div
             div
@@ -125,11 +130,44 @@
           >
             <div class="card-body">
               <h2 class="card-text fw-bold" style="line-height: 100%;">
-                Goblin Wrangler
+                Scroll the Pain Away
               </h2>
               <div
                 class="d-flex justify-content-between align-items-center"
-                style="padding-top: 16%;"
+                style="padding-top: 7%;"
+              >
+                <div class="btn-group">
+                  <button
+                    type="button"
+                    class="btn btn-sm btn-outline-secondary rounded-1 border-2"
+                    style="font-weight: 500;">Game Illustration</button
+                  >
+                </div>
+              </div>
+              <a href="/costco-app-redesign" class="stretched-link"></a>
+            </div>
+          </div>
+        </div>
+
+         <div class="card shadow">
+          <img
+            class="card-img-top"
+            alt="Thumbnail [100%x225]"
+            style="height: autox; width: 100%; display: block;"
+            src="/images/Project Thumbnails/Thumb_Costco.png"
+          />
+          <div
+            div
+            class="card-body"
+            style="padding: 30px;  background-color: #79A0BF;"
+          >
+            <div class="card-body">
+              <h2 class="card-text fw-bold" style="line-height: 100%;">
+                Olympics 2024 Branding
+              </h2>
+              <div
+                class="d-flex justify-content-between align-items-center"
+                style="padding-top: 7%;"
               >
                 <div class="btn-group">
                   <button
@@ -139,16 +177,87 @@
                   >
                 </div>
               </div>
-              <a href="/goblin-wrangler" class="stretched-link"></a>
+              <a href="/costco-app-redesign" class="stretched-link"></a>
             </div>
           </div>
         </div>
       </div>
+
+      <div
+        style="justify-content: center; display: flex; flex-wrap: nowrap; gap: 4%; padding-top: 2%;"
+      >
+        
+        <div class="card shadow">
+          <img
+            class="card-img-top"
+            alt="Thumbnail [100%x225]"
+            style="height: autox; width: 100%; display: block;"
+            src="/images/Project Thumbnails/Thumb_Costco.png"
+          />
+          <div
+            div
+            class="card-body"
+            style="padding: 30px;  background-color: #79A0BF;"
+          >
+            <div class="card-body">
+              <h2 class="card-text fw-bold" style="line-height: 100%;">
+                Augmented Reality Branding
+              </h2>
+              <div
+                class="d-flex justify-content-between align-items-center"
+                style="padding-top: 7%;"
+              >
+                <div class="btn-group">
+                  <button
+                    type="button"
+                    class="btn btn-sm btn-outline-secondary rounded-1 border-2"
+                    style="font-weight: 500;">Student Project</button
+                  >
+                </div>
+              </div>
+              <a href="/costco-app-redesign" class="stretched-link"></a>
+            </div>
+          </div>
+        </div>
+
+         <div class="card shadow">
+          <img
+            class="card-img-top"
+            alt="Thumbnail [100%x225]"
+            style="height: autox; width: 100%; display: block;"
+            src="/images/Project Thumbnails/Thumb_Costco.png"
+          />
+          <div
+            div
+            class="card-body"
+            style="padding: 30px;  background-color: #79A0BF;"
+          >
+            <div class="card-body">
+              <h2 class="card-text fw-bold" style="line-height: 100%;">
+                Olympics 2024 Branding
+              </h2>
+              <div
+                class="d-flex justify-content-between align-items-center"
+                style="padding-top: 7%;"
+              >
+                <div class="btn-group">
+                  <button
+                    type="button"
+                    class="btn btn-sm btn-outline-secondary rounded-1 border-2"
+                    style="font-weight: 500;">Student Project</button
+                  >
+                </div>
+              </div>
+              <a href="/costco-app-redesign" class="stretched-link"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
 -->
-
 
 <!--footer-->
 <div class="container-middle">
