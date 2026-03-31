@@ -84,14 +84,16 @@
       </div>
     </div>
   </div>
-
+</section>
+<!--
+<section>
   <div class="container-middle" style="padding-bottom: 5%; padding-top: 5%;">
     <div>
       <h1 class="header" style=" color: #EFF0E9;">UX/UI</h1>
       <div
         style="justify-content: center; display: flex; flex-wrap: nowrap; gap: 4%; padding-top: 2%;">
         <div class="card shadow">
-          <!-- Costco -->
+         
           <img class="card-img-top" alt="Thumbnail [100%x225]"style="height: autox; width: 100%; display: block;" src="/images/Project Thumbnails/Thumb_Costco.png"/>
           <div div class="card-body" style="padding: 30px;  background-color: #79A0BF;">
             <div class="card-body">
@@ -109,7 +111,7 @@
         </div>
 
         <div class="card shadow" style="display: flex;">
-          <!-- Goblin -->
+          
           <img
             class="card-img-top"
             alt="Thumbnail [100%x225]"
@@ -145,6 +147,7 @@
     </div>
   </div>
 </section>
+-->
 
 
 <!--footer-->
