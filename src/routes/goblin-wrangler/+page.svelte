@@ -695,46 +695,6 @@
 
 
     <!-- Challenges & Outcomes Section ---------------------------------->
-<!--
-    <div id="Outcomes" class="container-middle">
-        <div style="margin-bottom: 2rem; margin-top: 2rem;">
-            <h1 class="fw-bold" style="color: #585E6E;"> Challenges & Outcomes</h1>
-        </div>
-        <div class="row" style="display: flex; flex-direction: row; flex-wrap: nowrap;" style="margin: 0%;">
-            <div class="col-6">
-                <div class="card-body py-5 px-5 g-5 rounded-2">
-                    <h4>Project Challenges</h4>
-                    <p class="card-txt">This was the first time I had ever worked with 3D.
-                        We had about 2 weeks to come up with the conceptualization of the sculpture and have it
-                        fully
-                        modeled.
-                        Learning how to use Fusion 360 in a matter of days was an extraordinary challenge, one
-                        which
-                        I ran into a lot of troube with </p>
-                    <p class="card-txt">From this I did learn how to quicky look up what I needed to know and
-                        implement
-                        it.</p>
-                </div>
-            </div>
-            <div class="col-6">
-                <div class="card-body py-5 px-5 g-5 rounded-2"
-                    style="display: flex; flex-wrap: wrap; align-items: stretch; height: 100%;">
-                    <div>
-                        <h4>Project Challenges</h4>
-                        <p class="card-txt">This was the first time I had ever worked with 3D.
-                            We had about 2 weeks to come up with the conceptualization of the sculpture and have
-                            it
-                            fully modeled.</p>
-                        <p class="card-txt">From this I did learn how to quicky look up what I needed to know
-                            and
-                            implement
-                            it.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    -->
 
     <!--footer-->
     <div class="container-middle">
