@@ -23,22 +23,22 @@
     </div>
   </div>
 </section>
-<!-- MARK: UX?UI Design Projects
+<!-- MARK: UX?UI Design Projects test test
 -->
+<!--more test-->
 <section id="project-preview">
   <div class="container-middle" style="padding-bottom: 5%; padding-top: 5%;">
     <div>
-      <h1 class="header" style=" color: #EFF0E9;">UX/UI</h1>
+      <h1 class="header" style=" color: #EFF0E9;">Projects</h1>
       <div
         style="justify-content: center; display: flex; flex-wrap: nowrap; gap: 4%; padding-top: 2%;"
       >
-        <div class="card shadow">
-          <!-- Costco -->
+         <div class="card shadow">
           <img
             class="card-img-top"
             alt="Thumbnail [100%x225]"
             style="height: autox; width: 100%; display: block;"
-            src="/images/Project Thumbnails/Thumb_Costco.png"
+            src="/images/Project Thumbnails/Thumb_MLK_Library.png"
           />
           <div
             div
@@ -47,7 +47,7 @@
           >
             <div class="card-body">
               <h2 class="card-text fw-bold" style="line-height: 100%;">
-                Costco Mobile App Redesign
+                MLK Library Marketing
               </h2>
               <div
                 class="d-flex justify-content-between align-items-center"
@@ -57,14 +57,14 @@
                   <button
                     type="button"
                     class="btn btn-sm btn-outline-secondary rounded-1 border-2"
-                    style="font-weight: 500;">Student Project</button
+                    style="font-weight: 500;">Marketing</button
                   >
                 </div>
               </div>
-              <a href="/costco-app-redesign" class="stretched-link"></a>
+              <a href="/MLK-marketing" class="stretched-link"></a>
             </div>
           </div>
-        </div>
+        </div> 
 
         <div class="card shadow" style="display: flex;">
           <!-- Goblin -->
@@ -99,24 +99,48 @@
             </div>
           </div>
         </div>
+<div class="card shadow">
+          <!-- Costco -->
+          <img
+            class="card-img-top"
+            alt="Thumbnail [100%x225]"
+            style="height: autox; width: 100%; display: block;"
+            src="/images/Project Thumbnails/Thumb_Costco.png"
+          />
+          <div
+            div
+            class="card-body"
+            style="padding: 30px;  background-color: #79A0BF;"
+          >
+            <div class="card-body">
+              <h2 class="card-text fw-bold" style="line-height: 100%;">
+                Costco Mobile App Redesign
+              </h2>
+              <div
+                class="d-flex justify-content-between align-items-center"
+                style="padding-top: 7%;"
+              >
+                <div class="btn-group">
+                  <button
+                    type="button"
+                    class="btn btn-sm btn-outline-secondary rounded-1 border-2"
+                    style="font-weight: 500;">Student Project</button
+                  >
+                </div>
+              </div>
+              <a href="/costco-app-redesign" class="stretched-link"></a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-</section>
-<!--
- MARK: Visual Design Projects
-
-
-<section id="project-preview">
-  <div class="container-middle" style="padding-bottom: 5%; padding-top: 5%;">
-    <div>
-      <h1 class="header" style=" color: #EFF0E9;">Visual Design</h1>
       <div
         style="justify-content: center; display: flex; flex-wrap: nowrap; gap: 4%; padding-top: 2%;"
       >
-         MARK: Row 1
-         
-        <div class="card shadow">
+       <!--MARK: Row 1-->  
+
+<!--
+     <div class="card shadow">
           <img
             class="card-img-top"
             alt="Thumbnail [100%x225]"
@@ -148,45 +172,24 @@
             </div>
           </div>
         </div>
-
-         <div class="card shadow">
-          <img
-            class="card-img-top"
-            alt="Thumbnail [100%x225]"
-            style="height: autox; width: 100%; display: block;"
-            src="/images/Project Thumbnails/Thumb_Costco.png"
-          />
-          <div
-            div
-            class="card-body"
-            style="padding: 30px;  background-color: #79A0BF;"
-          >
-            <div class="card-body">
-              <h2 class="card-text fw-bold" style="line-height: 100%;">
-                Olympics 2024 Branding
-              </h2>
-              <div
-                class="d-flex justify-content-between align-items-center"
-                style="padding-top: 7%;"
-              >
-                <div class="btn-group">
-                  <button
-                    type="button"
-                    class="btn btn-sm btn-outline-secondary rounded-1 border-2"
-                    style="font-weight: 500;">Student Project</button
-                  >
-                </div>
-              </div>
-              <a href="/costco-app-redesign" class="stretched-link"></a>
-            </div>
-          </div>
-        </div>
       </div>
+  </div>-->
+</section>
+<!--
+ MARK: Visual Design Projects
+-->
 
+<section id="project-preview">
+  <div class="container-middle" style="padding-bottom: 5%; padding-top: 5%;">
+   <div>
+      <!-- <h1 class="header" style=" color: #EFF0E9;">Visual Design</h1> -->
+       
+    
+
+<!--MARK: Row 2
       <div
         style="justify-content: center; display: flex; flex-wrap: nowrap; gap: 4%; padding-top: 2%;"
       >
-        
         <div class="card shadow">
           <img
             class="card-img-top"
@@ -220,7 +223,7 @@
           </div>
         </div>
 
-         <div class="card shadow">
+        <div class="card shadow">
           <img
             class="card-img-top"
             alt="Thumbnail [100%x225]"
@@ -244,7 +247,7 @@
                   <button
                     type="button"
                     class="btn btn-sm btn-outline-secondary rounded-1 border-2"
-                    style="font-weight: 500;">Student Project</button
+                    style="font-weight: 500;">Game Illustration</button
                   >
                 </div>
               </div>
@@ -252,12 +255,14 @@
             </div>
           </div>
         </div>
+       
       </div>
-
+-->
+      
     </div>
   </div>
 </section>
--->
+
 
 <!--footer-->
 <div class="container-middle">
